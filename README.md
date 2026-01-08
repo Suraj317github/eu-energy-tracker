@@ -38,7 +38,7 @@ If you want to run this dashboard on your own machine:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Suraj317github/eu-energy-tracker.git](https://github.com/Suraj317github/eu-energy-tracker.git)
+    git clone https://github.com/Suraj317github/eu-energy-tracker.git
     cd eu-energy-tracker
     ```
 
